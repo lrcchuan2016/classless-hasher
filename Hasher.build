@@ -3,7 +3,7 @@
 	<description>.NET Hash and Checksum Algorithm Library</description>
 
 	<!-- Project properties. -->
-	<property name="project.version" value="0.9" />
+	<property name="project.version" value="0.8" />
 
 	<!-- Build properties. -->
 	<property name="build.keyfile" value="c:\temp\classless.snk" />
